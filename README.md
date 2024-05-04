@@ -1,16 +1,110 @@
-### Hi there 👋
+<div >
+ <img src="./pro.jpg">
+</div>
 
-<!--
-**arunsanjeevms/arunsanjeevms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Arun Sanjeev ( India )</h1>
+<h3 align="center">A passionate Developer and Cyber Security Enthusiast.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arunsanjeevms.arunsanjeevms&"  />
+</div>
+
+###
+
+<div align="center">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arunsanjeev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/script_kiddie._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:msarunsanjeev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+
+
+<img  align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+
+- 🔭 I’m CSE Student from India.
+
+- 🔥 I’m good at developing Software / Tools.
+
+- 👨‍💻  For More About me [Visit My Portfolio ](https://arunsanjeevms.github.io/My-Personal-Portfolio/)
+
+- 💬 Ask me about **Web Development, Cyber Security, Problem Solving**
+
+- 📫 How to reach me **msarunsanjeev@gmail.com**
+
+- ⚡ Fun fact  -- **It’s not a Bug ; it’s an Undocumented feature.**
+
+</div>
+
+###
+<br>
+<br>
+
+
+<h3 align="left">🛠  Stack I Work With :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="31" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="31" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="31" alt="r logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="31" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="31" alt="arduino logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="31" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ps" height="31" alt="adobephotoshop logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="31" alt="figma logo"  />
+</div>
+<br>
+
+###
+
+<h3 align="left">🔥   My Github Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arunsanjeevms&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=18&date_format=M%20j%5B,%20Y%5D&order=3" height="228" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
