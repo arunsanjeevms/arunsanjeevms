@@ -4,8 +4,19 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Arun Sanjeev ( India )</h1>
-<h3 align="center">A passionate Developer and Cyber Security Enthusiast.</h3>
+<center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alegreya+Sans+SC&size=33&pause=15000&color=FFFFFF&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Sanjeev+(+India+))](https://git.io/typing-svg)
+
+
+
+
+
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=18&pause=15000&color=FFFFFF&center=true&random=false&width=435&lines=+A+Passionate+Developer+and+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+
+</h3>
 
 
 ###
