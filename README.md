@@ -114,7 +114,7 @@
 </div>
 
 
-[![My Medium story](@codescaptain&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@msarunsanjeev&index=1&source=medium)](#)
+[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@msarunsanjeev&index=0&source=dev_to)](#)
 ###
 
 <div align="left">
