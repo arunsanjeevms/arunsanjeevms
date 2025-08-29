@@ -149,12 +149,7 @@
 <h3 align="left">🔥   My Github Stats :</h3>
 
 ###
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arunsanjeevms&color=red" alt="Profile Views" />
-  <a href="https://github.com/sponsors/arunsanjeevms" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-2F2F2F.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor me" height="21">
-  </a>
-</p>
+
 <p align="center">
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunsanjeevms&theme=github_dark" alt="GitHub stats" />
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arunsanjeevms&theme=github_dark" />
