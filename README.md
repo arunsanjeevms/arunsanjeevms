@@ -149,9 +149,12 @@
 <h3 align="left">🔥   My Github Stats :</h3>
 
 ###
+![](https://github-readme-stats.vercel.app/api?username=arunsanjeevms&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arunsanjeevms&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsanjeevms&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Streak Graph](https://streak-stats.demolab.com?user=arunsanjeevms&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=18&date_format=M%20j%5B,%20Y%5D&order=3)
-
+---
+[![](https://visitcount.itsvg.in/api?id=arunsanjeevms&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ###
