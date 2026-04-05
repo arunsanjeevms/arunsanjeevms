@@ -83,17 +83,28 @@
 <img  align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-- 🔭 I’m Full Stack Developer from India.
+<img src="https://img.shields.io/badge/%F0%9F%94%AD_WHO_AM_I-0D9488?style=for-the-badge&logoColor=white" alt="role"/>
+<br>
+<samp>&nbsp;&nbsp;Full Stack Developer from India &#x1F1EE;&#x1F1F3;</samp>
 
-- 🔥 I’m good at developing Software / Tools.
 
-- 👨‍💻  For More About me [Visit My Portfolio ](https://arunsanjeevms.github.io/My-Personal-Portfolio/)
+<img src="https://img.shields.io/badge/%F0%9F%94%A5_SUPERPOWER-F97316?style=for-the-badge&logoColor=white" alt="skills"/>
+<br>
+<samp>&nbsp;&nbsp;Building Software &amp; Tools that make a difference</samp>
 
-- 💬 Ask me about **Web Development, Cyber Security, Problem Solving**
+<br>
 
-- 📫 How to reach me **msarunsanjeev@gmail.com**
 
-- ⚡ Fun fact  -- **Code is like humor. If it has to be explained, it’s not that good.”**
+
+<img src="https://img.shields.io/badge/%F0%9F%93%AB_REACH_ME-EF4444?style=for-the-badge&logoColor=white" alt="contact"/>
+<br>
+<samp>&nbsp;&nbsp;</samp><a href="mailto:msarunsanjeev@gmail.com"><img src="https://img.shields.io/badge/msarunsanjeev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+
+<br>
+
+<img src="https://img.shields.io/badge/%E2%9A%A1_FUN_FACT-22C55E?style=for-the-badge&logoColor=white" alt="fun fact"/>
+<br>
+<samp>&nbsp;&nbsp;<i>"Code is like humor. If it has to be explained, it's not that good."</i> &#x1F604;</samp>
 
 </div>
 
@@ -106,33 +117,19 @@
 
 <div align="center">
 
-#### 💻 Languages
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,c,js,php,py" alt="Languages" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,php,py,html,css,react,bootstrap,tailwind,laravel,nodejs" />
+  </a>
 </p>
 
-#### 🌐 Frontend
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="Frontend" /></a>
-</p>
-
-#### ⚙️ Backend & Databases
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,mongodb,postgres" alt="Backend & Databases" /></a>
-</p>
-
-#### 🚀 DevOps & Tools
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,vercel" alt="DevOps & Tools" /></a>
-</p>
-
-#### 🎨 Design & IDE
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma,vscode,arduino" alt="Design & IDE" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,linux,git,azure,aws,nginx,figma,vscode,arduino" />
+  </a>
 </p>
 
 </div>
-
 
 
 
@@ -154,7 +151,7 @@
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
   
-  <a href="https://www.credly.com/badges/ae7e4950-a59b-4744-8ab1-d303b93ffe53" target="_blank"><img src="https://images.credly.com/images/ef243569-f022-42fb-8060-a05ad4817cae/blob" width="100" height="100" alt="2025 Microsoft Student Ambassador" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" target="_blank"><img src="https://images.credly.com/images/ef243569-f022-42fb-8060-a05ad4817cae/blob" width="100" height="100" alt="2025 Microsoft Student Ambassador" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/8ae75be7-7616-428a-abf5-c47297ee6c7b" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100" alt="GitHub Foundations" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/71113ae0-8d06-42eb-9807-1c2616530557" target="_blank"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" height="100" alt="Google Cybersecurity Professional Certificate" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/8e73d16c-c590-4e92-b868-0db40b2b3e6f" target="_blank"><img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100" height="100" alt="AWS Educate Introduction to Cloud 101" /></a>&nbsp;&nbsp;&nbsp;
@@ -215,8 +212,6 @@
 <!-- Row 2: 2 equal columns (no table borders, freely aligned) -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arunsanjeevms&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60&hide_border=true" />
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arunsanjeevms&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true" />
-
-
 
 
 <!-- Row 3: Profile Details (left) + Activity Graph (right) -->
