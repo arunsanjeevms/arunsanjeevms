@@ -151,7 +151,7 @@
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
   
-  <a href="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" target="_blank"><img src="https://images.credly.com/images/ef243569-f022-42fb-8060-a05ad4817cae/blob" width="100" height="100" alt="2025 Microsoft Student Ambassador" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" target="_blank"><img src="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" width="100" height="100" alt="2025 Microsoft Student Ambassador" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/8ae75be7-7616-428a-abf5-c47297ee6c7b" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100" alt="GitHub Foundations" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/71113ae0-8d06-42eb-9807-1c2616530557" target="_blank"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" height="100" alt="Google Cybersecurity Professional Certificate" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/8e73d16c-c590-4e92-b868-0db40b2b3e6f" target="_blank"><img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100" height="100" alt="AWS Educate Introduction to Cloud 101" /></a>&nbsp;&nbsp;&nbsp;
