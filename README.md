@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/%F0%9F%94%AD_WHO_AM_I-0D9488?style=for-the-badge&logoColor=white" alt="role"/>
 <br>
 <samp>&nbsp;&nbsp;Full Stack Developer from India &#x1F1EE;&#x1F1F3;</samp>
-
+<br>
 
 <img src="https://img.shields.io/badge/%F0%9F%94%A5_SUPERPOWER-F97316?style=for-the-badge&logoColor=white" alt="skills"/>
 <br>
