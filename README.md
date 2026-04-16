@@ -144,34 +144,36 @@
 </div>
 
 ###
-
 <h2 align="center">🏅 Certification Badges</h2>
 
 <div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  
-  <a href="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" target="_blank"><img src="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" width="100" height="100" alt="2025 Microsoft Student Ambassador" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/8ae75be7-7616-428a-abf5-c47297ee6c7b" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100" alt="GitHub Foundations" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/71113ae0-8d06-42eb-9807-1c2616530557" target="_blank"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" height="100" alt="Google Cybersecurity Professional Certificate" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/8e73d16c-c590-4e92-b868-0db40b2b3e6f" target="_blank"><img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100" height="100" alt="AWS Educate Introduction to Cloud 101" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/d5d06b55-a0b2-444b-96bb-a274ae09dff7" target="_blank"><img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100" height="100" alt="AWS Educate Introduction to Generative AI" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/95df95e0-e939-4ee7-8e7c-d5c5c19e9624" target="_blank"><img src="https://images.credly.com/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" width="100" height="100" alt="AWS Educate Machine Learning Foundations" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/fab89d60-f217-48ca-9d8b-5ad270f77c91" target="_blank"><img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100" height="100" alt="ISC2 Candidate" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/15be3d5e-d622-407a-8f8a-0e09263f00cc" target="_blank"><img src="https://images.credly.com/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="100" height="100" alt="LFS101: Introduction to Linux" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/f5d2b144-2573-4182-9581-9ba42d98cab8" target="_blank"><img src="https://images.credly.com/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" width="100" height="100" alt="Enterprise Design Thinking Co-Creator" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/cba892ce-9181-4564-a154-fbe51df43338" target="_blank"><img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" width="100" height="100" alt="Enterprise Design Thinking Practitioner" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/15c0088e-b6f7-4806-b8a6-ef723727bc18" target="_blank"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="100" height="100" alt="Junior Cybersecurity Analyst Career Path" /></a>&nbsp;&nbsp;&nbsp;
-</marquee>
+<table border="0" cellpadding="10" cellspacing="0" align="center">
+  <tr>
+    <td align="center"><a href="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" target="_blank"><img src="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/beta.png" width="100" height="100" alt="2025 Microsoft Student Ambassador" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/8ae75be7-7616-428a-abf5-c47297ee6c7b" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100" alt="GitHub Foundations" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/71113ae0-8d06-42eb-9807-1c2616530557" target="_blank"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" height="100" alt="Google Cybersecurity" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/8e73d16c-c590-4e92-b868-0db40b2b3e6f" target="_blank"><img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100" height="100" alt="AWS Cloud 101" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/d5d06b55-a0b2-444b-96bb-a274ae09dff7" target="_blank"><img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100" height="100" alt="AWS Generative AI" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/95df95e0-e939-4ee7-8e7c-d5c5c19e9624" target="_blank"><img src="https://images.credly.com/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" width="100" height="100" alt="AWS ML Foundations" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.credly.com/badges/fab89d60-f217-48ca-9d8b-5ad270f77c91" target="_blank"><img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100" height="100" alt="ISC2 Candidate" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/15be3d5e-d622-407a-8f8a-0e09263f00cc" target="_blank"><img src="https://images.credly.com/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="100" height="100" alt="LFS101 Linux" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/f5d2b144-2573-4182-9581-9ba42d98cab8" target="_blank"><img src="https://images.credly.com/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" width="100" height="100" alt="Design Thinking Co-Creator" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/cba892ce-9181-4564-a154-fbe51df43338" target="_blank"><img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" width="100" height="100" alt="Design Thinking Practitioner" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/15c0088e-b6f7-4806-b8a6-ef723727bc18" target="_blank"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="100" height="100" alt="Junior Cybersecurity Analyst" /></a></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
-<br />
+<br/>
 
 <a href="https://www.credly.com/users/arun-sanjeev-m-s/badges" target="_blank">
   <img src="https://img.shields.io/badge/View_All_on_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
 </a>
 
 </div>
-
 ---
 
 <h2 align="center">💭 Recent Blog Posts</h2>
