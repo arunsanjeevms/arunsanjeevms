@@ -85,12 +85,16 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%94%AD_WHO_AM_I-0D9488?style=for-the-badge&logoColor=white" alt="role"/>
 <br>
-<samp>&nbsp;&nbsp;Full Stack Developer from India &#x1F1EE;&#x1F1F3;</samp>
+<samp>&nbsp;&nbsp;Results-driven Full Stack Developer from India &#x1F1EE;&#x1F1F3;</samp>
+<br>
+<samp>&nbsp;&nbsp;B.E. Computer Science — M. Kumarasamy College of Engineering (CGPA: 8.5/10)</samp>
 <br>
 
 <img src="https://img.shields.io/badge/%F0%9F%94%A5_SUPERPOWER-F97316?style=for-the-badge&logoColor=white" alt="skills"/>
 <br>
-<samp>&nbsp;&nbsp;Building Software &amp; Tools that make a difference</samp>
+<samp>&nbsp;&nbsp;Building production-grade apps serving <b>4000+ users</b></samp>
+<br>
+<samp>&nbsp;&nbsp;3× National Hackathon Winner 🏆 | HEXAWARE HAIL 2026 Winner</samp>
 
 <br>
 
@@ -105,6 +109,104 @@
 <img src="https://img.shields.io/badge/%E2%9A%A1_FUN_FACT-22C55E?style=for-the-badge&logoColor=white" alt="fun fact"/>
 <br>
 <samp>&nbsp;&nbsp;<i>"Code is like humor. If it has to be explained, it's not that good."</i> &#x1F604;</samp>
+
+</div>
+
+###
+<br>
+
+<!-- HIGHLIGHTS -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/4000+-Users_Served-0D9488?style=for-the-badge" alt="users"/>
+<img src="https://img.shields.io/badge/7+-Live_Projects-F97316?style=for-the-badge" alt="projects"/>
+<img src="https://img.shields.io/badge/3×-Hackathon_Winner-EF4444?style=for-the-badge" alt="hackathons"/>
+<img src="https://img.shields.io/badge/1-IEEE_Publication-8B5CF6?style=for-the-badge" alt="publication"/>
+
+</div>
+
+###
+
+<!-- ACHIEVEMENTS -->
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+| 🥇 Achievement | 📌 Details |
+|:---|:---|
+| **HEXAWARE – AI Innovation League (HAIL 2026)** | 🏅 Winner |
+| **AI Ascend 2026** (AWS & Kyndryl) | 🥇 Winner — ₹30,000 Cash Prize |
+| **Prathiyogitha Vol 2** (24-Hour Hackathon) | 🥇 Winner — ₹10,000 Cash Prize |
+| **MKCE HackFest 2026** | 🥈 Runner-up |
+| **GenCraft 2026 Hackathon** | 🥇 Winner |
+| **GenCraft 2026 Appathon** | 🥇 Winner |
+| **GenCraft 2025 Code Wars** | 🥉 Second Runner-up |
+| **CTF Competitions** (Systech Groups Academy) | 🥇 2× Winner |
+
+</div>
+
+###
+
+<!-- PROJECTS -->
+<h2 align="center">🚀 Live Projects</h2>
+
+<div align="center">
+
+| Project | Tech Stack | Description |
+|:---|:---|:---|
+| [**Credixa – Finance Management System**](https://admin.afdc.co.in) | PHP, MySQL | Enterprise finance system — ledger management, loan processing, KYC workflows, audit logging & RBAC |
+| [**Hostel Management System**](https://mkce.krconnect.in) | PHP, MySQL | Production system for **700+ users** — leave mgmt, biometric attendance, mess tokens, IVR notifications |
+| [**MKCE College Website**](https://mkce.ac.in) | Web Dev | Official college website — responsive frontend, scalable backend, performance optimized |
+| **LyfLink** | Flutter, FastAPI | Emergency response mobile app — **AWS Hackathon Winner** — real-time communication & secure REST APIs |
+| [**Poorvi Photography**](https://poorviphotography.in) | PHP, MySQL, JS | Commercial photography portfolio & booking website with gallery management & SEO |
+| [**Zion HR Consultancy**](https://zionhr.in) | PHP, MySQL | Recruitment & overseas consultancy site — dynamic service pages, enquiry mgmt, admin panel |
+| [**TrioSpark**](https://triospark.in) | Web Dev | Company business website — responsive interface, scalable architecture, modern UI |
+
+</div>
+
+###
+
+<!-- EXPERIENCE -->
+<h2 align="center">💼 Professional Experience</h2>
+
+<div align="center">
+
+**Full Stack Developer** — *Technology Innovation Hub, MKCE* &nbsp; `August 2025`
+<br>
+<samp>Developed full stack web apps using PHP (Laravel), JS & MySQL · Designed RESTful APIs · Managed live deployments</samp>
+<br><br>
+**AI Intern** — *Nuvai Solutions Pvt Ltd, Bangalore* &nbsp; `October 2025`
+<br>
+<samp>Worked on RAG & GraphRAG · Embedding generation & vector databases · AI feature integration</samp>
+
+</div>
+
+###
+
+<!-- PUBLICATION -->
+<h2 align="center">📄 Publication</h2>
+
+<div align="center">
+
+**DIGSAFE: 5G-Based Smart Helmet for Proactive Worker Safety using XAI**
+<br>
+<samp>Published at <b>IEEE ICCTAC 2026</b> (International Conference) · IEEE Xplore — 11524539</samp>
+
+</div>
+
+###
+
+<!-- POSITIONS OF RESPONSIBILITY -->
+<h2 align="center">🎯 Leadership & Community</h2>
+
+<div align="center">
+
+| Role | Organization |
+|:---|:---|
+| 🏛 **President** | Unstop Igniters Club — Led 2 National hackathons, coding contests & student programs |
+| 📡 **Vice Chair** | IEEE Society — Coordinated technical events, workshops & collaborations |
+| 🧑‍💻 **Microsoft Ambassador (MVP)** | Conducted sessions on AI, GitHub Copilot & developer tools |
+| 🌐 **Campus Ambassador** | Unstop, Google & GeeksforGeeks — Platform promotion & outreach campaigns |
 
 </div>
 
