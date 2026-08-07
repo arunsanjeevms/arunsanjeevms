@@ -87,7 +87,7 @@
 <br>
 <samp>&nbsp;&nbsp;Results-driven Full Stack Developer from India &#x1F1EE;&#x1F1F3;</samp>
 <br>
-<samp>&nbsp;&nbsp;B.E. Computer Science — M. Kumarasamy College of Engineering (CGPA: 8.5/10)</samp>
+<samp>&nbsp;&nbsp;B.E. Computer Science — M. Kumarasamy College of Engineering </samp>
 <br>
 
 <img src="https://img.shields.io/badge/%F0%9F%94%A5_SUPERPOWER-F97316?style=for-the-badge&logoColor=white" alt="skills"/>
