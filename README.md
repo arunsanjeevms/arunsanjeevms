@@ -265,7 +265,7 @@
     <td align="center"><a href="https://www.credly.com/badges/f5d2b144-2573-4182-9581-9ba42d98cab8" target="_blank"><img src="https://images.credly.com/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" width="100" height="100" alt="Design Thinking Co-Creator" /></a></td>
     <td align="center"><a href="https://www.credly.com/badges/cba892ce-9181-4564-a154-fbe51df43338" target="_blank"><img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" width="100" height="100" alt="Design Thinking Practitioner" /></a></td>
     <td align="center"><a href="https://www.credly.com/badges/15c0088e-b6f7-4806-b8a6-ef723727bc18" target="_blank"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="100" height="100" alt="Junior Cybersecurity Analyst" /></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://aws.amazon.com/developer/community/students/" target="_blank"><img src="https://raw.githubusercontent.com/arunsanjeevms/arunsanjeevms/main/badges/AWS%20sbg.png" width="100" height="100" alt="AWS Student Builders Group" /></a></td>
   </tr>
 </table>
 
